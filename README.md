@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/0326-power-of-three) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
