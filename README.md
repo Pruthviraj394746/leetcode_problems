@@ -13,9 +13,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/0326-power-of-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
