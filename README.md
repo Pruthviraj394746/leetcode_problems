@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1871-jump-game-vii](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/2615-sum-of-distances) |
 | [3903-smallest-stable-index-i](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3904-smallest-stable-index-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1871-jump-game-vii](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1871-jump-game-vii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1871-jump-game-vii](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1871-jump-game-vii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1871-jump-game-vii](https://github.com/Pruthviraj394746/leetcode_problems/tree/master/1871-jump-game-vii) |
 ## Simulation
 |  |
 | ------- |
